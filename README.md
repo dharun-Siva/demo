@@ -1,4 +1,4 @@
 # demo
 This is my first repository
 
-Author - Dharun Siva
+Author - Dharun Siva Karur
